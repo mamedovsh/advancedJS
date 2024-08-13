@@ -54,3 +54,4 @@ console.log(myLibrary.hasBook('The Great Gatsby')); // true
 console.log(myLibrary.hasBook('Moby Dick')); // false
 
 console.log(myLibrary.allBooks); // ['1984', 'To Kill a Mockingbird', 'The Great Gatsby']
+
